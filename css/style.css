@@ -35,7 +35,11 @@ h1, h2, h3, h4, h5, h6, p, ul {
     padding-left: 344px;
 }
 
-.header .header-link, .header-link2 {
+.header .hl1 {
+    column-gap: 50px;
+}
+
+.header .header-link2 {
     column-gap: 50px;
 }
 
